@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/13 21:37:25.000.050,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/13 21:45:19.651,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/13 21:49:01.021,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/08/13 21:49:01.021,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\uMain.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/13 22:02:29.894,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/08/13 22:03:08.934,C:\projetos\dTokio\Delphi-Tour\Notification\Project1.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/08/13 22:03:39.353,C:\projetos\dTokio\Delphi-Tour\Notification\uMain.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>2017/08/13 22:03:39.353,C:\projetos\dTokio\Delphi-Tour\Notification\uMain.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\uMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
